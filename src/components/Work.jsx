@@ -29,10 +29,10 @@ const Work = () => {
                         WORKSHEET-2024
                     </h1>
                     <div className="flex w-full justify-between">
-                        <p className="rounded-[12px] px-8 text-2xl font-Poppins hover:bg-[#62bde1] font-medium duration-300 transition-all hover:text-black  py-2  text-white bg-black">
+                        <p className="rounded-[12px] px-8 text-2xl font-Poppins hover:bg-[#62bde1] font-medium duration-300 transition-all hover:text-black  py-2  text-white bg-black cursor-pointer">
                             Months
                         </p>
-                        <p className="rounded-[12px]  px-8 text-2xl font-Poppins hover:bg-[#62bde1] font-medium duration-300 transition-all hover:text-black  py-2  text-white bg-black">
+                        <p className="rounded-[12px]  px-8 text-2xl font-Poppins hover:bg-[#62bde1] font-medium duration-300 transition-all hover:text-black  py-2  text-white bg-black mr-5 cursor-pointer">
                             Pooja 404
                         </p>
                     </div>
@@ -755,10 +755,10 @@ const Work = () => {
                                 </div>
                             </div>
                         </div>}
-                        {/* {tab === "tab4" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll   rounded-3xl">
-                            <p className="text-black text-4xl font-bold">COMING-SOON</p>
+                        {tab === "tab4" && <div >
+                    
                         </div>
-                        } */}
+                        }
                     </div>
                 </div>
             </div>
