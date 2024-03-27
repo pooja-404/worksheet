@@ -106,7 +106,6 @@ const Work = () => {
                                     </div>
                                 </div>
                             </div>
-
                             <div className="flex pt-6 flex-wrap items-center flex-row -mx-3">
                                 <div className="w-2/5 px-3">
                                     <div className="flex">
@@ -686,9 +685,7 @@ const Work = () => {
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
-                                                    href="https://github.com/pooja-404/form-valadation
-
-"
+                                                    href="https://github.com/pooja-404/form-valadation"
                                                     target="blank"
                                                 >
                                                     https://github.com/pooja-404/form-valadation
@@ -758,10 +755,10 @@ const Work = () => {
                                 </div>
                             </div>
                         </div>}
-                        {tab === "tab4" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll   rounded-3xl">
+                        {/* {tab === "tab4" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll   rounded-3xl">
                             <p className="text-black text-4xl font-bold">COMING-SOON</p>
                         </div>
-                        }
+                        } */}
                     </div>
                 </div>
             </div>
