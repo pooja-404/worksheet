@@ -76,12 +76,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             Pt-Plan
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium ">
                                             (Date of submission : 9-1-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -92,7 +92,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -124,23 +124,23 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             FURNITURE
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 16-1-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
-                                                    href="https://github.com/pooja-404/furniture"
+                                                    href="https://github.com/pooja-404/furniture "
                                                     target="blank"
                                                 >
                                                     https://github.com/pooja-404/furniture
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -170,15 +170,15 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins">
                                             LEMON_WARES
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium">
                                             (Date of submission : 25-1-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -191,7 +191,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -227,14 +227,14 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
-                                            EXCLUSIVE-GAMES
+                                            Exclusive-Games
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 05-02-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -245,7 +245,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -278,12 +278,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             DINO-LFG
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 10-02-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -294,7 +294,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -327,12 +327,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             NEX-AI
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 17-02-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -345,7 +345,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -377,12 +377,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             CALCULATOR
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 20-02-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -395,7 +395,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -428,12 +428,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             NEX-AI Bootstrap
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 22-02-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -444,7 +444,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -481,12 +481,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             CLOOP
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 04-03-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -497,7 +497,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -529,12 +529,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             LABS_248
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 19-03-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -545,7 +545,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -576,12 +576,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             PRACTICE_nextjs
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 22-03-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -593,7 +593,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -624,14 +624,14 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
-                                            Swiper_Slider
+                                            Swiper-Slider
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 20-03-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -644,7 +644,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -674,14 +674,14 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex flex-wrap pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
-                                            FORM_VALIDATION_IN_REACT
+                                            FORM-VALIDATION-IN-REACT
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 27-03-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -692,7 +692,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -724,12 +724,12 @@ const Work = () => {
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             WORKSHEET
                                         </p>
-                                        <p className="text-black  text-xl font-poppins ">
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 27-03-2024)
                                         </p>
                                     </div>
                                     <div>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
@@ -740,7 +740,7 @@ const Work = () => {
                                                 </a>
                                             </span>
                                         </p>
-                                        <p className="text-black text-xl font-poppins ">
+                                        <p className="text-black text-xl font-poppins font-medium  ">
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
