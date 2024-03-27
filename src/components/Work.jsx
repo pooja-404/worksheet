@@ -1,7 +1,6 @@
 
 import React, { useState } from "react";
 import img1 from "../assets/images/img1.png";
-import img2 from "../assets/images/img2.png";
 import img3 from "../assets/images/img3.png";
 import img4 from "../assets/images/img4.png";
 import img5 from "../assets/images/img5.png";
@@ -49,7 +48,7 @@ const Work = () => {
                         <button onClick={() => handletab("tab3")} className="rounded-[12px] mb-2 w-full font-Poppins px-8 text-2xl text-center  hover:bg-[#62bde1] font-medium duration-300 transition-all hover:text-black  py-2  text-white bg-black">
                             March
                         </button>
-                        <button onClick={() => handletab("tab3")} className="rounded-[12px] mb-2 w-full font-Poppins px-8 text-2xl text-center  hover:bg-[#62bde1] font-medium duration-300 transition-all hover:text-black  py-2  text-white bg-black">
+                        <button onClick={() => handletab("tab4")} className="rounded-[12px] mb-2 w-full font-Poppins px-8 text-2xl text-center  hover:bg-[#62bde1] font-medium duration-300 transition-all hover:text-black  py-2  text-white bg-black">
                             April
                         </button>
 
@@ -761,7 +760,7 @@ const Work = () => {
                                 </div>
                             </div>
                         </div>}
-                        {tab === "tab4" && <div>
+                        {tab === "tab4" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll   rounded-3xl">
                             <p className="text-black text-4xl font-bold">COMING-SOON</p>
                         </div>
                         }
