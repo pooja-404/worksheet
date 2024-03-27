@@ -56,7 +56,7 @@ const Work = () => {
                     <div className="w-4/5 px-3  ">
                         {tab === "tab1" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll   rounded-3xl">
                             <p className="text-black text-2xl font-bold font-poppins pb-3 ">
-                                January-Index
+                                January-Data
                             </p>
                             <div className="flex flex-wrap items-center flex-row -mx-3">
                                 <div className="w-2/5 px-3">
@@ -73,7 +73,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             Pt-Plan
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -122,7 +122,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             FURNITURE
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -171,7 +171,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             LEMON_WARES
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -210,7 +210,7 @@ const Work = () => {
 
                         {tab === "tab2" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll  rounded-3xl">
                             <p className="text-black text-2xl font-poppins pb-3 font-bold ">
-                                February-Index
+                                February-Data
                             </p>
                             <div className="flex flex-wrap items-center flex-row -mx-3">
                                 <div className="w-2/5 px-3">
@@ -227,7 +227,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             EXCLUSIVE-GAMES
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -276,7 +276,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             DINO-LFG
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -325,7 +325,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             NEX-AI
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -375,7 +375,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             CALCULATOR
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -426,7 +426,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             NEX-AI Bootstrap
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -462,7 +462,7 @@ const Work = () => {
                         </div>}
                         {tab === "tab3" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll   rounded-3xl">
                             <p className="text-black text-2xl font-poppins pb-3 font-bold ">
-                                March-Index
+                                March-Data
                             </p>
                             <div className="flex flex-wrap items-center flex-row -mx-3">
                                 <div className="w-2/5 px-3">
@@ -479,7 +479,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             CLOOP
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -527,7 +527,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             LABS_248
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -574,7 +574,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             PRACTICE_nextjs
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -624,7 +624,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             Swiper_Slider
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -659,7 +659,6 @@ const Work = () => {
                                     </div>
                                 </div>
                             </div>
-
                             <div className="flex pt-6 flex-wrap items-center flex-row -mx-3">
                                 <div className="w-2/5 px-3">
                                     <div className="flex">
@@ -675,7 +674,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex flex-wrap pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             FORM_VALIDATION_IN_REACT
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
@@ -710,11 +709,10 @@ const Work = () => {
                                     </div>
                                 </div>
                             </div>
-
                             <div className="flex pt-6 flex-wrap items-center flex-row -mx-3">
                                 <div className="w-2/5 px-3">
                                     <div className="flex">
-                                        <p className="text-black pr-1 text-2xl font-poppins pb-3">
+                                        <p className="text-black pr-1 font-semibold text-2xl font-poppins pb-3">
                                             6.
                                         </p>
                                         <img
@@ -726,7 +724,7 @@ const Work = () => {
                                 </div>
                                 <div className="w-3/5 px-3">
                                     <div className="flex flex-wrap pb-3 items-center">
-                                        <p className="text-black pr-1 font-semibold text-3xl font-poppins ">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
                                             WORKSHEET
                                         </p>
                                         <p className="text-black  text-xl font-poppins ">
