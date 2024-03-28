@@ -74,7 +74,7 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
-                                            Pt-Plan
+                                            Ft-Plan
                                         </p>
                                         <p className="text-black  text-xl font-poppins font-medium ">
                                             (Date of submission : 9-1-2024)
