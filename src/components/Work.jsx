@@ -13,7 +13,7 @@ import img11 from "../assets/images/img11.png";
 import img12 from "../assets/images/img12.jpg";
 import img13 from "../assets/images/img13.png";
 import img14 from "../assets/images/img14.jpeg";
-
+import vite from "../assets/images/vite.png";
 
 
 const Work = () => {
@@ -665,6 +665,56 @@ const Work = () => {
                                             5.
                                         </p>
                                         <img
+                                            src={vite}
+                                            alt="3"
+                                            className="w-full h-full max-h-[200px] max-w-[350px]"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="w-3/5 px-3">
+                                    <div className="flex pb-3 items-center">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
+                                            Vite-Html
+                                        </p>
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
+                                            (Date of submission : 27-03-2024)
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Github-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://github.com/pooja-404/html-vite
+
+"
+                                                    target="blank"
+                                                >
+                                                    https://github.com/pooja-404/html-vite
+                                                </a>
+                                            </span>
+                                        </p>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Live-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://html-vite-psi.vercel.app/"
+                                                    target="blank"
+                                                >
+                                                    https://html-vite-psi.vercel.app/
+                                                </a>
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="flex pt-6 flex-wrap items-center flex-row -mx-3">
+                                <div className="w-2/5 px-3">
+                                    <div className="flex">
+                                        <p className="text-black pr-1 font-semibold text-2xl font-poppins pb-3">
+                                            6.
+                                        </p>
+                                        <img
                                             src={img13}
                                             alt="13"
                                             className="w-full h-full max-h-[200px] max-w-[350px]"
@@ -710,7 +760,7 @@ const Work = () => {
                                 <div className="w-2/5 px-3">
                                     <div className="flex">
                                         <p className="text-black pr-1 font-semibold text-2xl font-poppins pb-3">
-                                            6.
+                                            7.
                                         </p>
                                         <img
                                             src={img14}
@@ -756,7 +806,7 @@ const Work = () => {
                             </div>
                         </div>}
                         {tab === "tab4" && <div >
-                    
+
                         </div>
                         }
                     </div>
