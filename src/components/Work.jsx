@@ -171,7 +171,7 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins">
-                                            LEMON_WARES
+                                            LEMON-WARES
                                         </p>
                                         <p className="text-black  text-xl font-poppins font-medium">
                                             (Date of submission : 25-1-2024)
@@ -527,7 +527,7 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
-                                            LABS_248
+                                            LABS-248
                                         </p>
                                         <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 19-03-2024)
@@ -574,7 +574,7 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
-                                            PRACTICE_nextjs
+                                            Practice-Nextjs
                                         </p>
                                         <p className="text-black  text-xl font-poppins font-medium  ">
                                             (Date of submission : 22-03-2024)
