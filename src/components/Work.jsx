@@ -14,6 +14,7 @@ import img12 from "../assets/images/img12.jpg";
 import img13 from "../assets/images/img13.png";
 import img14 from "../assets/images/img14.jpeg";
 import vite from "../assets/images/vite.png";
+import img15 from "../assets/images/img15.png";
 
 
 const Work = () => {
@@ -154,7 +155,6 @@ const Work = () => {
                                     </div>
                                 </div>
                             </div>
-
                             <div className="flex pt-6 flex-wrap items-center flex-row -mx-3">
                                 <div className="w-2/5 px-3">
                                     <div className="flex">
@@ -206,7 +206,6 @@ const Work = () => {
                                 </div>
                             </div>
                         </div>}
-
                         {tab === "tab2" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll  rounded-3xl">
                             <p className="text-black text-2xl font-poppins pb-3 font-bold ">
                                 February-Data
@@ -805,8 +804,58 @@ const Work = () => {
                                 </div>
                             </div>
                         </div>}
-                        {tab === "tab4" && <div >
-
+                        {tab === "tab4" && <div className="p-4 bg-[#d4e0f0] max-h-[550px] overflow-y-scroll   rounded-3xl">
+                            <p className="text-black text-2xl font-poppins pb-3 font-bold ">
+                                April-Data
+                            </p>
+                            <div className="flex flex-wrap items-center flex-row -mx-3">
+                                <div className="w-2/5 px-3">
+                                    <div className="flex">
+                                        <p className="text-black pr-1 font-semibold text-2xl font-poppins pb-3">
+                                            1.
+                                        </p>
+                                        <img
+                                            src={img15}
+                                            alt="1"
+                                            className="w-full max-h-[200px] h-full max-w-[350px]"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="w-3/5 px-3">
+                                    <div className="flex pb-3 items-center">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
+                                            Noble-Mind
+                                        </p>
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
+                                            (Date of submission : 05-04-2024)
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Github-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://github.com/pooja-404/noble_mind"
+                                                    target="blank"
+                                                >
+                                                    https://github.com/pooja-404/noble_mind
+                                                </a>
+                                            </span>
+                                        </p>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Live-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://noble-mind-jsa5.vercel.app/"
+                                                    target="blank"
+                                                >
+                                                    https://noble-mind-jsa5.vercel.app/
+                                                </a>
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         }
                     </div>
