@@ -15,6 +15,7 @@ import img13 from "../assets/images/img13.png";
 import img14 from "../assets/images/img14.jpeg";
 import vite from "../assets/images/vite.png";
 import img15 from "../assets/images/img15.png";
+import img16 from "../assets/images/img16.png";
 
 
 const Work = () => {
@@ -850,6 +851,54 @@ const Work = () => {
                                                     target="blank"
                                                 >
                                                     https://noble-mind-jsa5.vercel.app/
+                                                </a>
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="flex flex-wrap items-center flex-row -mx-3 pt-6">
+                                <div className="w-2/5 px-3">
+                                    <div className="flex">
+                                        <p className="text-black pr-1 font-semibold text-2xl font-poppins pb-3">
+                                            2.
+                                        </p>
+                                        <img
+                                            src={img16}
+                                            alt="1"
+                                            className="w-full max-h-[200px] h-full max-w-[350px]"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="w-3/5 px-3">
+                                    <div className="flex pb-3 items-center">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
+                                            Noble-Mind
+                                        </p>
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
+                                            (Date of submission : 11-04-2024)
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Github-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://github.com/pooja-404/cupid"
+                                                    target="blank"
+                                                >
+                                                    https://github.com/pooja-404/cupid
+                                                </a>
+                                            </span>
+                                        </p>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Live-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://cupid-kappa.vercel.app/"
+                                                    target="blank"
+                                                >
+                                                    https://cupid-kappa.vercel.app/
                                                 </a>
                                             </span>
                                         </p>
