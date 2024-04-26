@@ -955,11 +955,11 @@ const Work = () => {
                                     </div>
                                 </div>
                             </div>
-                            {/* <div className="flex flex-wrap items-center flex-row -mx-3 pt-6">
+                            <div className="flex flex-wrap items-center flex-row -mx-3 pt-6">
                                 <div className="w-2/5 px-3">
                                     <div className="flex">
                                         <p className="text-black pr-1 font-semibold text-2xl font-poppins pb-3">
-                                            3.
+                                            4.
                                         </p>
                                         <img
                                             src={img18}
@@ -971,10 +971,10 @@ const Work = () => {
                                 <div className="w-3/5 px-3">
                                     <div className="flex pb-3 items-center">
                                         <p className="text-black pr-1 font-bold text-3xl font-poppins ">
-                                            Email.js
+                                            MARCH_JOACHIM
                                         </p>
                                         <p className="text-black  text-xl font-poppins font-medium  ">
-                                            (Date of submission : 15-04-2024)
+                                            (Date of submission : 25-04-2024)
                                         </p>
                                     </div>
                                     <div>
@@ -982,10 +982,10 @@ const Work = () => {
                                             Github-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
-                                                    href="https://github.com/pooja-404/email"
+                                                    href="https://github.com/pooja-404/marc_-joachim"
                                                     target="blank"
                                                 >
-                                                    https://github.com/pooja-404/cupid
+                                                    https://github.com/pooja-404/marc_-joachim
                                                 </a>
                                             </span>
                                         </p>
@@ -993,16 +993,16 @@ const Work = () => {
                                             Live-Link :{" "}
                                             <span className="ms-3 border-b-2 border-black hover:text-blue-700">
                                                 <a
-                                                    href="https://email-teal-three.vercel.app/"
+                                                    href="https://marc-joachim-ashy.vercel.app/"
                                                     target="blank"
                                                 >
-                                                    https://email-teal-three.vercel.app/
+                                                    https://marc-joachim-ashy.vercel.app/
                                                 </a>
                                             </span>
                                         </p>
                                     </div>
                                 </div>
-                            </div> */}
+                            </div>
                         </div>
                         }
                     </div>
