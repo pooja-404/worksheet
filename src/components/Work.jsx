@@ -18,6 +18,7 @@ import img15 from "../assets/images/img15.png";
 import img16 from "../assets/images/img16.png";
 import img17 from "../assets/images/img17.png";
 import img18 from "../assets/images/img18.png";
+import img19 from "../assets/images/img19.png";
 
 
 const Work = () => {
@@ -997,6 +998,54 @@ const Work = () => {
                                                     target="blank"
                                                 >
                                                     https://marc-joachim-ashy.vercel.app/
+                                                </a>
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="flex flex-wrap items-center flex-row -mx-3 pt-6">
+                                <div className="w-2/5 px-3">
+                                    <div className="flex">
+                                        <p className="text-black pr-1 font-semibold text-2xl font-poppins pb-3">
+                                            5.
+                                        </p>
+                                        <img
+                                            src={img19}
+                                            alt="1"
+                                            className="w-full max-h-[200px] h-full max-w-[350px]"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="w-3/5 px-3">
+                                    <div className="flex pb-3 items-center">
+                                        <p className="text-black pr-1 font-bold text-3xl font-poppins ">
+                                            Hooks
+                                        </p>
+                                        <p className="text-black  text-xl font-poppins font-medium  ">
+                                            (Date of submission : 29-04-2024)
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Github-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://github.com/pooja-404/hooks"
+                                                    target="blank"
+                                                >
+                                                    https://github.com/pooja-404/hooks
+                                                </a>
+                                            </span>
+                                        </p>
+                                        <p className="text-black text-xl font-poppins font-medium  ">
+                                            Live-Link :{" "}
+                                            <span className="ms-3 border-b-2 border-black hover:text-blue-700">
+                                                <a
+                                                    href="https://hooks-sigma-black.vercel.app/"
+                                                    target="blank"
+                                                >
+                                                    https://hooks-sigma-black.vercel.app/
                                                 </a>
                                             </span>
                                         </p>
